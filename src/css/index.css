@@ -1,5 +1,7 @@
 .test {
   width: 100px;
   height: 100px;
-  background-color: pink;
+  /* background-color: pink; */
+  background-image: url("../images/Sharkchili.jpg");
+  background-size: auto 100%;
 }
